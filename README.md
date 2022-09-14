@@ -1,1 +1,1 @@
-# cyberbuzz22
+# cyber-buzz.com
